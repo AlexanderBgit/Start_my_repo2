@@ -1,3 +1,6 @@
+![Python 3.11](https://img.shields.io/badge/python-3.11-blueviolet) ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/peopl3s/club-house-api?color=blueviolet) ![Forks](https://img.shields.io/github/forks/peopl3s/club-house-api?style=social)
+
+
 # pixels_project
 
 # Технічне завдання на створення застосунку “PhotoShare” (REST API)
@@ -57,7 +60,6 @@ click on the link : https://pixels-project-goit-gr5-lexxai.koyeb.app/
 
 #### Презентація
 Youtube: https://youtu.be/WCTrSa8wCJQ
-
 
 ## Спільна робота
 
